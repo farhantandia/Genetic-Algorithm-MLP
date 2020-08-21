@@ -1,0 +1,18 @@
+INFO:2020-06-08 22:07:04,104:__main__:batch_size: 64 num_classes: 10 epochs: 100 
+INFO:2020-06-08 22:07:20,999:__main__:Elapsed time :16.693819284439087 Test loss: 3.033307919150655 Test accuracy: 0.18392708897590637
+INFO:2020-06-08 22:25:17,865:__main__:batch_size: 64 num_classes: 6 epochs: 100 
+INFO:2020-06-08 22:25:33,203:__main__:Elapsed time :15.21381402015686 Test loss: nan Test accuracy: 0.5194697380065918
+INFO:2020-06-08 22:34:08,620:__main__:batch_size: 64 num_classes: 6 epochs: 100 
+INFO:2020-06-08 22:34:27,842:__main__:Elapsed time :19.176215648651123 Test loss: 6.652934377807769 Test accuracy: 0.4913007318973541
+INFO:2020-06-08 22:35:32,733:__main__:batch_size: 64 num_classes: 6 epochs: 100 
+INFO:2020-06-08 22:36:01,051:__main__:Elapsed time :28.25558638572693 Test loss: 0.9435373357039596 Test accuracy: 0.7945318818092346
+INFO:2020-06-08 22:36:49,296:__main__:batch_size: 64 num_classes: 6 epochs: 100 
+INFO:2020-06-08 22:37:03,717:__main__:Elapsed time :14.384006261825562 Test loss: 2.545709550726384 Test accuracy: 0.5186412334442139
+INFO:2020-06-08 22:39:03,539:__main__:batch_size: 64 num_classes: 6 epochs: 100 
+INFO:2020-06-08 22:39:18,989:__main__:Elapsed time :15.338908910751343 Test loss: 5.519375782913675 Test accuracy: 0.6876553297042847
+INFO:2020-06-08 22:46:29,084:__main__:batch_size: 64 num_classes: 10 epochs: 100 
+INFO:2020-06-08 22:46:39,407:__main__:Elapsed time :10.283943891525269 Test loss: 0.6471922760080876 Test accuracy: 0.5020712614059448
+INFO:2020-06-08 22:56:20,515:__main__:batch_size: 64 num_classes: 10 epochs: 100 
+INFO:2020-06-08 22:56:32,059:__main__:Elapsed time :11.509276866912842 Test loss: 8.350422902648472 Test accuracy: 0.49710023403167725
+INFO:2020-06-08 22:57:27,179:__main__:batch_size: 64 num_classes: 10 epochs: 100 
+INFO:2020-06-08 22:57:41,672:__main__:Elapsed time :14.45711064338684 Test loss: 3.841690429301922 Test accuracy: 0.29991716146469116
