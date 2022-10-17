@@ -1,3 +1,0 @@
-4 class = ["apple","raspberry", "mango", "lemon"]
-6 class = ["apple","avocado","papaya", "raspberry", "mango", "lemon"]
-10 class = ["apple","avocado","banana","guava","papaya","strawberry","watermelon", "raspberry", "mango", "lemon"]
